@@ -46,7 +46,7 @@ If 8821cu is present, everything is good to go!
 
 
     git clone https://github.com/Logi2c/rtl8821CU.git
-    cd rtl8812AU
+    cd rtl8821CU
 
 
 ## Build and install with DKMS
